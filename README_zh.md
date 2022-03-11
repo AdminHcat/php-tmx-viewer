@@ -1,7 +1,7 @@
-php-tmx-viewer
+PHP-TMX查看器
 ==============
 
-a TMX map viewer written in PHP
+一款基于PHP的TMX 地图浏览器
 
 DEPENDENCIES
 ============
